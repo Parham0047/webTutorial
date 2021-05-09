@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(255, 226, 96);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+table {
+    background-color: rgb(223, 136, 136);
+    margin-left: auto;
+    margin-right: auto;
+}
+table td{
+    background-color: rgb(172, 236, 238);
+    height: 200px;
+    width: 200px;
+}
+.Cont-Top{
+    background-color: rgb(18, 185, 214);
+    height: 200px;
+    width: 200px;
+    border: 10px solid;
+    border-color: rgb(170, 28, 28);
+    padding: 20px;
+    margin: 0px;
+}
+.Cont-Mid{
+    background-color: rgb(241, 86, 75);
+    height: 200px;
+    width: 200px;
+    border: 20px solid;
+    border-color: rgb(7, 21, 228);
+    margin-left: 260px;
+}
+.Cont-Bottom{
+    background-color: rgb(89, 172, 73);
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+}
+nav{
+    background-color: rgba(158, 158, 158, 0.253);
+    height: 25px;
+    width: 100%;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
